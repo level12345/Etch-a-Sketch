@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  /* Ensures the boxes are aligned in a row */
+}
+
+.box {
+  width: 100px; /* Or any preferred width */
+  height: 100px; /* Or any preferred height */
+  margin: 5px; /* Optional: adds some space between the boxes */
+  background-color: lightblue; /* Just for visibility */
+}
