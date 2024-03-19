@@ -9,3 +9,7 @@
   margin: 5px; /* Optional: adds some space between the boxes */
   background-color: lightblue; /* Just for visibility */
 }
+
+.gridbox {
+    background-color: red;  
+}
